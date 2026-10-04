@@ -1,6 +1,6 @@
 # My Portfolio Landing Page
 
-This is the code for my personal landing page. I wanted a clean, simple way for people to scan a QR code on my resume and instantly get to my LinkedIn and GitHub profiles.
+This is the code for my personal landing page. I wanted a clean, simple way for people to click a link on my digital resume (or scan a QR code on a printed copy) and instantly get to my LinkedIn and GitHub profiles.
 
 👉 **Live Site:** https://snewell-cybersec.github.io/
 
